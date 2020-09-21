@@ -24,6 +24,7 @@ export default new Router({
           component: Appindex,
           meta:{
             requireAuth:true
+
           }
         },
         {
